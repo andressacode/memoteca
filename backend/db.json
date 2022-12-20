@@ -8,12 +8,6 @@
     },
     {
       "id": 3,
-      "conteudo": "Você está aqui!",
-      "autoria": "Dev Alura",
-      "modelo": "modelo2"
-    },
-    {
-      "id": 3,
       "conteudo": "Bem-vindo!!",
       "autoria": "Angular",
       "modelo": "modelo3"
@@ -23,12 +17,6 @@
       "autoria": "Dev angular",
       "modelo": "modelo1",
       "id": 4
-    },
-    {
-      "conteudo": "Novo pensamento de teste",
-      "autoria": "Andressa Developer",
-      "modelo": "modelo3",
-      "id": 5
     }
   ]
 }
